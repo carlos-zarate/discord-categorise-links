@@ -15,6 +15,7 @@
   "homepage": "https://github.com/iJrod/discord-categorise-links#readme",
   "dependencies": {
     "discord.js": "^12.3.1",
+    "giphy-api": "^2.0.1",
     "html-metadata-parser": "^1.0.3"
   }
 }
